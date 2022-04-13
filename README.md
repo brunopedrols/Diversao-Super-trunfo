@@ -6,7 +6,8 @@ O desenvolvimento foi feito em HTML, CSS, JAVASCRIPT.
 
 acompanhe um pouco do projeto.
 
-![Marvel](https://user-images.githubusercontent.com/99897640/163235632-06afbe55-d879-4a1b-9f21-4cf1b4e3785e.jpg)
+
+![Projeto-Super-trunfo](https://user-images.githubusercontent.com/99897640/163236149-decf2a06-c0c4-4b82-b336-9809434d91e3.png)
 
 
 att: bruno.pedrols1@gmail.com
